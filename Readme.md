@@ -67,7 +67,7 @@ A organização abaixo é uma sugestão inicial e poderá ser adaptada conforme 
 
 ```text
 quiz-ranking/
-├── index.php
+├── index.html
 ├── quiz.php
 ├── resultado.php
 ├── ranking.php
