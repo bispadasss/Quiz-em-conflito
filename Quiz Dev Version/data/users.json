@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "bruno123",
+        "password": "123456",
+        "best_correct_answers": 5,
+        "best_time_seconds": 52.55
+    },
+    {
+        "id": 2,
+        "name": "bispo",
+        "password": "12345678",
+        "best_correct_answers": 7,
+        "best_time_seconds": 47.66
+    },
+    {
+        "id": 3,
+        "name": "Davi Gameplays",
+        "password": "guardadoleao",
+        "best_correct_answers": 10,
+        "best_time_seconds": 23.35
+    }
+]

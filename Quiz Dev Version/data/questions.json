@@ -1,0 +1,497 @@
+[
+    {
+        "id": 1,
+        "question": "Qual é a capital do Brasil?",
+        "options": [
+            "São Paulo",
+            "Rio de Janeiro",
+            "Brasília",
+            "Salvador"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "question": "Qual é o maior planeta do sistema solar?",
+        "options": [
+            "Terra",
+            "Júpiter",
+            "Saturno",
+            "Marte"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 3,
+        "question": "Quem pintou a Mona Lisa?",
+        "options": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Michelangelo"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "question": "Qual é o elemento químico com o símbolo 'O'?",
+        "options": [
+            "Ouro",
+            "Oxigênio",
+            "Ósmio",
+            "Óxido"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "question": "Qual é a fórmula da água?",
+        "options": [
+            "H2O",
+            "CO2",
+            "NaCl",
+            "O2"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 6,
+        "question": "Qual é o maior oceano do mundo?",
+        "options": [
+            "Oceano Atlântico",
+            "Oceano Índico",
+            "Oceano Pacífico",
+            "Oceano Ártico"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 7,
+        "question": "Quem escreveu 'Dom Quixote'?",
+        "options": [
+            "Miguel de Cervantes",
+            "William Shakespeare",
+            "Jorge Luis Borges",
+            "Gabriel García Márquez"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 8,
+        "question": "Qual é a moeda oficial do Japão?",
+        "options": [
+            "Yen",
+            "Dólar",
+            "Euro",
+            "Libra"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "question": "Qual é o maior animal terrestre?",
+        "options": [
+            "Elefante Africano",
+            "Girafa",
+            "Hipopótamo",
+            "Rinoceronte"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 10,
+        "question": "Qual é a língua com mais falantes nativos no mundo?",
+        "options": [
+            "Inglês",
+            "Mandarim",
+            "Espanhol",
+            "Hindi"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "question": "Qual é o maior deserto do mundo?",
+        "options": [
+            "Deserto do Saara",
+            "Deserto da Arábia",
+            "Deserto de Gobi",
+            "Deserto da Antártida"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 12,
+        "question": "Quem descobriu a América?",
+        "options": [
+            "Cristóvão Colombo",
+            "Vasco da Gama",
+            "Pedro Álvares Cabral",
+            "Ferdinand Magellan"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "question": "Qual é a capital da França?",
+        "options": [
+            "Londres",
+            "Berlim",
+            "Paris",
+            "Roma"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 14,
+        "question": "Qual é o maior rio do mundo?",
+        "options": [
+            "Rio Nilo",
+            "Rio Amazonas",
+            "Rio Yangtzé",
+            "Rio Mississipi"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "question": "Quem foi o primeiro homem a pisar na Lua?",
+        "options": [
+            "Yuri Gagarin",
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Michael Collins"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 16,
+        "question": "Qual é a capital da Itália?",
+        "options": [
+            "Milão",
+            "Veneza",
+            "Roma",
+            "Florença"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 17,
+        "question": "Qual é o maior continente do mundo?",
+        "options": [
+            "África",
+            "Ásia",
+            "América do Norte",
+            "Europa"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "question": "Quem escreveu 'O Pequeno Príncipe'?",
+        "options": [
+            "Antoine de Saint-Exupéry",
+            "J.K. Rowling",
+            "Mark Twain",
+            "Charles Dickens"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 19,
+        "question": "Qual é a capital da Austrália?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 20,
+        "question": "Qual é o maior lago do mundo?",
+        "options": [
+            "Lago Superior",
+            "Lago Vitória",
+            "Lago Baikal",
+            "Mar Cáspio"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 21,
+        "question": "Qual é a capital da Alemanha?",
+        "options": [
+            "Berlim",
+            "Munique",
+            "Frankfurt",
+            "Hamburgo"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "question": "Qual é o maior país do mundo em área?",
+        "options": [
+            "Canadá",
+            "China",
+            "Estados Unidos",
+            "Rússia"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 23,
+        "question": "Quem pintou 'A Última Ceia'?",
+        "options": [
+            "Leonardo da Vinci",
+            "Michelangelo",
+            "Raphael",
+            "Donatello"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "question": "Qual é a capital do Canadá?",
+        "options": [
+            "Toronto",
+            "Vancouver",
+            "Ottawa",
+            "Montreal"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 25,
+        "question": "Qual é o maior país da América do Sul?",
+        "options": [
+            "Argentina",
+            "Brasil",
+            "Chile",
+            "Peru"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "question": "Qual é a capital da Espanha?",
+        "options": [
+            "Barcelona",
+            "Madrid",
+            "Sevilha",
+            "Valência"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 27,
+        "question": "Qual é o maior país da África?",
+        "options": [
+            "Nigéria",
+            "Egito",
+            "África do Sul",
+            "Argélia"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 28,
+        "question": "Quem escreveu '1984'?",
+        "options": [
+            "George Orwell",
+            "Aldous Huxley",
+            "Ray Bradbury",
+            "Jules Verne"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "question": "Qual é a capital da Rússia?",
+        "options": [
+            "São Petersburgo",
+            "Moscou",
+            "Kazan",
+            "Novosibirsk"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "question": "Qual é o maior país da Oceania?",
+        "options": [
+            "Austrália",
+            "Nova Zelândia",
+            "Papua-Nova Guiné",
+            "Fiji"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "question": "Qual é a capital da Argentina?",
+        "options": [
+            "Buenos Aires",
+            "Córdoba",
+            "Rosário",
+            "Mendoza"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 32,
+        "question": "Qual é o maior país da Ásia?",
+        "options": [
+            "China",
+            "Índia",
+            "Rússia",
+            "Indonésia"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "question": "Quem escreveu 'O Senhor dos Anéis'?",
+        "options": [
+            "J.R.R. Tolkien",
+            "C.S. Lewis",
+            "George R.R. Martin",
+            "J.K. Rowling"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "question": "Qual é a capital da China?",
+        "options": [
+            "Pequim",
+            "Xangai",
+            "Hong Kong",
+            "Guangzhou"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "question": "Qual é o maior país da América do Norte?",
+        "options": [
+            "Estados Unidos",
+            "Canadá",
+            "México",
+            "Groenlândia"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "question": "Quem escreveu 'O Hobbit'?",
+        "options": [
+            "J.R.R. Tolkien",
+            "C.S. Lewis",
+            "George R.R. Martin",
+            "J.K. Rowling"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "question": "Qual é a capital da Índia?",
+        "options": [
+            "Nova Délhi",
+            "Mumbai",
+            "Bangalore",
+            "Hyderabad"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "question": "Qual é o maior país da Europa?",
+        "options": [
+            "Alemanha",
+            "França",
+            "Rússia",
+            "Ucrânia"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 39,
+        "question": "Quem escreveu 'O Código Da Vinci'?",
+        "options": [
+            "Dan Brown",
+            "Stephen King",
+            "Agatha Christie",
+            "J.K. Rowling"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 40,
+        "question": "Qual é a capital do México?",
+        "options": [
+            "Cidade do México",
+            "Guadalajara",
+            "Monterrey",
+            "Cancún"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 41,
+        "question": "Qual é o maior país do Oriente Médio?",
+        "options": [
+            "Arábia Saudita",
+            "Irã",
+            "Turquia",
+            "Iraque"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 43,
+        "question": "Qual é a capital da Turquia?",
+        "options": [
+            "Istambul",
+            "Ancara",
+            "Esmirna",
+            "Bursa"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 44,
+        "question": "Qual é o maior país da América Central?",
+        "options": [
+            "Nicarágua",
+            "Guatemala",
+            "Honduras",
+            "Costa Rica"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 46,
+        "question": "Qual é a capital da Grécia?",
+        "options": [
+            "Atenas",
+            "Salônica",
+            "Patras",
+            "Heraclião"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 49,
+        "question": "Qual é a capital da Noruega?",
+        "options": [
+            "Oslo",
+            "Bergen",
+            "Trondheim",
+            "Stavanger"
+        ],
+        "answer": 0
+    }
+]
